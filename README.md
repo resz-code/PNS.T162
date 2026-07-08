@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="img" src="https://github.com/user-attachments/assets/75974cd9-6bd9-42ed-9e1e-6ecaab6fe029" />
 # ⚡ Digital Twin Operations Center
 Smart Maintenance Simulator
 
