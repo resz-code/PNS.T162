@@ -1,0 +1,12 @@
+{
+  "rmse": 6.2372,
+  "r2": 0.9583,
+  "n_test": 5,
+  "evaluation_method": "leave_one_out_cv",
+  "train_rmse": 3.0822,
+  "train_r2": 0.9898,
+  "note": "Dataset training hanya 5 baris, tidak ada test set independen. rmse/r2 di atas dihitung via Leave-One-Out Cross-Validation (n_test=5 berarti 5 evaluasi hold-out satu-per-satu, bukan test set terpisah sungguhan). train_rmse/train_r2 adalah metrik in-sample (referensi saja, jangan dipakai sebagai klaim akurasi).",
+  "trained_at": "2026-07-08T12:30:00.148511+00:00",
+  "model_file": "model_risiko_v1.joblib",
+  "scaler_file": "scaler_risiko_v1.joblib"
+}
